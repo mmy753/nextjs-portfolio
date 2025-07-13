@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "UI Design",
+      "skills": [
+        { "name": "Visual Design", "level": 95 },
+        { "name": "Wireframing", "level": 80 },
+        { "name": "Prototyping", "level": 90 },
+        { "name": "Graphics Design", "level": 95 }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        { "name": "User Research", "level": 95 },
+        { "name": "Interaction Design", "level": 85 },
+        { "name": "Typography", "level": 80 },
+        { "name": "Market Research", "level": 85 }
+      ]
+    },
+    {
+      "name": "Tools & Others",
+      "skills": [
+        { "name": "Figma", "level": 100 },
+        { "name": "Illustrator", "level": 90 },
+        { "name": "Photoshop", "level": 85 },
+        { "name": "Sketch", "level": 75 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "projects": [
+        {
+      "id": 17,
+      "title": "24 Hour Gamification Challenge",
+      "description": "I recently completed a design task as part of an interview, which involved creating a gamified crypto earning landing page within a strict 24-hour timeframe. Despite the challenge of having no references or prior research to guide me, I focused on incorporating gamification elements to enhance user engagement and motivation. This project showcases my ability to innovate and adapt quickly, even under tight deadlines. I also prepared a comprehensive presentation to explain the design choices and the rationale behind each element, highlighting how they contribute to an engaging user experience. You can find the cover, presentation, and design all in the accompanying Figma file.",
+      "image": "/17.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/design/RklD7hyb3gOGkO5XxSQQJG/Task%2FGamification?node-id=53%3A115&t=YJ2BZltdT2IXKc4b-1"
+    },
+    {
+      "id": 16,
+      "title": "Coinovo Website",
+      "description": "In crafting the website design for the Coinovo app, I aimed to reflect the app's sleek and intuitive interface while providing visitors with a seamless user experience. The website features a modern layout with clean lines and vibrant accents, mirroring the app's aesthetic appeal. Through careful consideration of typography, color scheme, and imagery, I ensured that every aspect of the website aligns with Coinovo's brand identity.",
+      "image": "/16.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/file/Wq29u4ONBLGwniGlpKYSuG/Coinovo%2FLandingPAge?type=design&node-id=1%3A133&mode=design&t=OxoOnRFgPUCUIdHg-1"
+    },
+    {
+      "id": 15,
+      "title": "Coinovo Fintech Mobile App",
+      "description": "Excited to share my latest project, Coinovo, a mobile app UI design crafted with meticulous attention to detail. Inspired by the glassmorphism trend, Coinovo merges the worlds of coin trading and finance into a seamless user experience. Utilizing a 4-point grid system, precise typography, and auto layout, I've created over 20 pixel-perfect pages with a 20/1 contrast ratio for optimal accessibility. From prototype to presentation, every aspect of Coinovo embodies a commitment to excellence in fintech design. Explore the design journey and prototype in my portfolio—I welcome your feedback and questions!",
+      "image": "/15.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/file/1kwgU3IDTACWf2tX26Zser/Coinovo?type=design&node-id=1032%3A4049&mode=design&t=O3QvAz9i83rK7B4q-1"
+    },
+    {
+      "id": 14,
+      "title": "CoinBank Finance App",
+      "description": "This project, developed in Figma, showcases over 44 screens featuring both light and dark modes to enhance user experience. Coin Bank is a demonstration of my design capabilities and creativity in crafting user-friendly, visually appealing financial applications. Explore the interface and functionalities as a testament to my proficiency in modern app design.",
+      "image": "/14.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/design/VjqexbzoTpejAxw051LHBh/Banking?node-id=0-1&t=6Q4tAqWBG8S67Udr-1"
+    },
+    {
+      "id": 13,
+      "title": "Turtle Food & Two-day Design Challenge",
+      "description": "Completing this project was particularly challenging, as I designed and executed it within a two-day timeframe, demonstrating my ability to work efficiently and creatively under pressure. The Turtle Food app is a conceptual project created for my portfolio to showcase my UI/UX design skills. In this project, I aimed to address common user pain points with existing food delivery apps by designing an intuitive and visually appealing interface. A key feature of this design is the custom elements, including specially designed buttons with integrated logos that reinforce brand identity.",
+      "image": "/13.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/design/8rc3X9SuGtYZ4JxrtremVX/TurtleFood?node-id=830-45388&t=5xDY1OrKBcAw0ZVE-1"
+    },
+    {
+      "id": 12,
+      "title": "Spartan NFT Marketplace",
+      "description": "Step into the world of Spartan app design, where my skills are on full display across seven distinct pages. With a focus on user experience and functionality, each scroll and animation reflects my attention to detail and understanding of design principles. From the homepage to the artwork galleries, my proficiency in UI/UX shines through, creating a seamless and engaging experience. As you explore the prototype, you'll see how my expertise in design tools and techniques brings the app to life, ensuring both aesthetic appeal and usability",
+      "image": "/12.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/proto/fFAIXyGuX09Xx07Lx6jnVj/SpartanApp?type=design&node-id=2929-2744&t=bBKnUV9tprIPBmhu-1&scaling=scale-down&page-id=24%3A134&starting-point-node-id=89%3A1991&mode=design"
+    },
+    {
+      "id": 11,
+      "title": "Demo User Research",
+      "description": "This project is a comprehensive presentation of user research findings, aimed at understanding the needs and preferences of sports bettors. Conducting 50 user interviews sourced from Reddit and Telegram groups, this demo is the culmination of extensive efforts to gather insights directly from the target audience. Through meticulous analysis and synthesis of interview data, user personas have been crafted to represent various segments of the betting community. Additionally, a user task model has been developed to outline the key activities and goals of users within the betting ecosystem. The presentation also includes a problem statement, highlighting the challenges faced by sports bettors in the current landscape. Overall, this demo provides a holistic overview of the user-centric approach adopted in the project, serving as a valuable resource for informing future design decisions and solutions.",
+      "image": "/11.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://docs.google.com/presentation/d/1vu-9Y36_cMBQThqRExRLVd-Pn0DKVIV4aTJdE8Z4rrI/edit?usp=sharing"
+    },
+    {
+      "id": 10,
+      "title": "Design Casino",
+      "description": "Designing a white-themed online casino involves navigating a complex landscape where visual aesthetics must harmonize with functionality, regulatory compliance, and the unique demands of the online gambling industry. Successfully meeting these challenges demonstrates a nuanced understanding of design principles and an ability to create user-centric interfaces for specific industries.",
+      "image": "/10.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/proto/8GCG1lDS3pMbE762u8SpWJ/DesignCasino?type=design&node-id=26-2&t=GJcqrzYAjzzWCG6Q-1&scaling=scale-down&page-id=0%3A1&mode=design"
+    },
+    {
+      "id": 9,
+      "title": "Spartan Sportsbook",
+      "description": "This project serves as a testament to my commitment to continuous improvement and keeping my skills sharp. In just one hour, I've crafted three pages, and I look forward to expanding this prototype further to showcase my expertise in digital design and user experience.",
+      "image": "/9.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/proto/oDonZkrEX2yqSViwDlH3x5/SpartanCasino?type=design&node-id=605-765&t=lJPmbOkCrUWG9DW3-1&scaling=scale-down&page-id=0%3A1&mode=design"
+    },
+    {
+      "id": 8,
+      "title": "Design Challenge",
+      "description": "For a recent design challenge, I took on the task of creating an online ordering app page, where the unique requirement was to incorporate cold colors—diametrically opposite to the prevailing design trends. This presented an exciting opportunity to diverge from the conventional warm and vibrant palettes often associated with such applications. Adhering to the challenge parameters, I skillfully implemented a cohesive design that not only embraced cold colors but also managed to maintain visual appeal and usability. Navigating against the current trends, this project showcased my versatility as a designer and the ability to think creatively to meet specific design criteria, offering a fresh perspective that challenges the status quo.",
+      "image": "/8.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://merty.netlify.app/assets/imgs/looper.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Haveno Exchange",
+      "description": "In a previous role as a frontend developer, I contributed to the development of a desktop application for a crypto exchange, using a tech stack that included TypeScript, React, ElectronJS, React-Query, React Testing Library, and Storybook.",
+      "image": "/3.png",
+      "tags": ["TypeScript", "ElectronJS", "React-Query", "Storybook"],
+      "link": "https://haveno.exchange/"
+    },
+    {
+      "id": 4,
+      "title": "TopProp Mobile App UI/UX Design",
+      "description": "As a Lead Designer for a mobile fantasy sports gambling app, I spearheaded a transformative UI/UX initiative.",
+      "image": "/4.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "Design System"],
+      "link": "https://www.toppropsports.com/"
+    },
+    {
+      "id": 5,
+      "title": "Pokemon Finder",
+      "description": "Pokemon Card finder app with HTML/CSS/JavaScript and API.CSS Drawing of a Gameboy.",
+      "image": "/5.png",
+      "tags": ["Responsive", "Adobe Illustrator", "HTML", "JavaScript"],
+      "link": "https://pokyfinder.netlify.app/"
+    },
+    {
+      "id": 6,
+      "title": "CryptoLook",
+      "description": "Cryptocurrency Tracker App in React JS, Material UI and ChartJS with full responsive fuctionality. I used Context API to manage the state of the appand Coin Gecko API for backend.",
+      "image": "/6.png",
+      "tags": ["ReactJS ", "ChartJS", "MaterialUI", "ContextAPI"],
+      "link": "https://cryptolooker.netlify.app/"
+    },
+    {
+      "id": 7,
+      "title": "NFT-Dashboard",
+      "description": "Dashboard design for NFT companys, Hover animations, Fully Responsive.",
+      "image": "/7.png",
+      "tags": ["React", "CSS", "react-icons", "styled-components"],
+      "link": "https://nftdashboard.netlify.app/"
+    }
+    
+    
+    
+    
+    
+    
+    
+  ]
+}
