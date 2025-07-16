@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Mert Yüksel - UI/UX Designer",
-  description: "Portfolio website of Jason Wells, a Senior Web Developer",
+  description: "Portfolio website of Mert Yüksel, a UI/UX Designer",
 };
 
 export default function RootLayout({
