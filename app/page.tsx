@@ -40,7 +40,7 @@ export default function Home() {
           text-transparent bg-gradient-to-r from-emerald-400
           via-sky-300 to-blue-500">UI/UX Designer</h3>
           <p className="text-pretty tracking-tight mt-3 text-neutral-300">
-            I'm a full time UI/UX Designer and ex-Devloper. My front end 
+            I&apos;m a full time UI/UX Designer and ex-Devloper. My front end 
             development experience allows me to create better designs.
             <Link href="/contact" className="bg-clip-text
             text-transparent bg-gradient-to-r from-emerald-400
