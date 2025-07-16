@@ -24,7 +24,7 @@ const page = () => {
 
             <div className="space-y-6">
                 <p className="text-pretty text-nutral-200
-                tracking-tight">I'm always open to discussing new projects, creative
+                tracking-tight">I&apos;m always open to discussing new projects, creative
                 ideas or
                 oppurtunities to be part of your visions. Feel free to 
                 reach out
