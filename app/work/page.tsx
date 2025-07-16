@@ -2,7 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { BiLogoFigma } from "react-icons/bi";
-import { CgExternal } from "react-icons/cg";
 import { BsArrowLeft } from "react-icons/bs";
 import projectsData from "../data/projects.json";
 
