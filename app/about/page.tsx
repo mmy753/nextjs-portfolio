@@ -21,11 +21,11 @@ const page = () => {
 
           <div className="space-y-4 text-neutral-200 text-pretty
           tracking-tight">
-            <p>I'm Mert,
-                I'm a designer with a strong background in web3, Mobile apps, and software development,
+            <p>I&apos;m Mert,
+                I&apos;m a designer with a strong background in web3, Mobile apps, and software development,
                 coupled with my proficiency in design software and expertise in visual design,
                 I am confident in my ability to make a meaningful impact on your team.</p>
-            <p>As a passionate Designer, I’m confident that my developer background and
+            <p>As a passionate Designer, I&apos;m confident that my developer background and
                UI/UX experience are exactly what you’re looking for and maybe more.</p>
           </div>
 
