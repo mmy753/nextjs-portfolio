@@ -1,5 +1,13 @@
 {
   "projects": [
+    {
+      "id": 18,
+      "title": "Animated Landing Page",
+      "description": "I wanted to see if a simple scroll could feel like an adventure. This landing page uses advanced animation techniques to guide the user from a lush valley into the unknown",
+      "image": "/18.png",
+      "tags": ["Figma", "Adobe", "UI Design"],
+      "link": "https://www.figma.com/design/SJqjTuWw13XPCVkKcqVWVO/Scroll-Animation?node-id=0-1&t=9QCY1O73NkOxqXYx-1"
+    },
         {
       "id": 17,
       "title": "24 Hour Gamification Challenge",
