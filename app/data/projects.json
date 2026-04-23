@@ -1,5 +1,13 @@
 {
   "projects": [
+   {
+      "id": 19,
+      "title": "Van Gogh Website",
+      "description": "A modern, multidisciplinary design studio landing page concept blending classic aesthetics with contemporary UI/UX principles. This Figma project showcases high-fidelity visual storytelling, powered by a strictly organized design system featuring advanced Auto Layouts and structured Component guides for seamless scalability.",
+      "image": "/19.png",
+      "tags": ["Figma", "Adobe", "UI Design"],
+      "link": "https://www.figma.com/design/zP0nC000Sl9KiXS2jeW42e/Art-Design?node-id=18-214&t=GGuYUr51VlBUE1fP-1"
+    },
     {
       "id": 18,
       "title": "Animated Landing Page",
