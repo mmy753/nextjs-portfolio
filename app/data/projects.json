@@ -8,14 +8,6 @@
       "tags": ["Figma", "Adobe", "UI Design"],
       "link": "https://www.figma.com/design/zP0nC000Sl9KiXS2jeW42e/Art-Design?node-id=18-214&t=GGuYUr51VlBUE1fP-1"
     },
-    {
-      "id": 18,
-      "title": "Animated Landing Page",
-      "description": "I wanted to see if a simple scroll could feel like an adventure. This landing page uses advanced animation techniques to guide the user from a lush valley into the unknown",
-      "image": "/18.png",
-      "tags": ["Figma", "Adobe", "UI Design"],
-      "link": "https://www.figma.com/design/SJqjTuWw13XPCVkKcqVWVO/Scroll-Animation?node-id=0-1&t=9QCY1O73NkOxqXYx-1"
-    },
         {
       "id": 17,
       "title": "24 Hour Gamification Challenge",
@@ -55,6 +47,14 @@
       "image": "/13.png",
       "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
       "link": "https://www.figma.com/design/8rc3X9SuGtYZ4JxrtremVX/TurtleFood?node-id=830-45388&t=5xDY1OrKBcAw0ZVE-1"
+    },
+    {
+      "id": 18,
+      "title": "Animated Landing Page",
+      "description": "I wanted to see if a simple scroll could feel like an adventure. This landing page uses advanced animation techniques to guide the user from a lush valley into the unknown",
+      "image": "/18.png",
+      "tags": ["Figma", "Adobe", "UI Design"],
+      "link": "https://www.figma.com/design/SJqjTuWw13XPCVkKcqVWVO/Scroll-Animation?node-id=0-1&t=9QCY1O73NkOxqXYx-1"
     },
     {
       "id": 12,
