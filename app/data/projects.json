@@ -1,30 +1,6 @@
 {
   "projects": [
-   {
-      "id": 19,
-      "title": "Van Gogh Website",
-      "description": "A modern, multidisciplinary design studio landing page concept blending classic aesthetics with contemporary UI/UX principles. This Figma project showcases high-fidelity visual storytelling, powered by a strictly organized design system featuring advanced Auto Layouts and structured Component guides for seamless scalability.",
-      "image": "/19.png",
-      "tags": ["Figma", "Adobe", "UI Design"],
-      "link": "https://www.figma.com/design/zP0nC000Sl9KiXS2jeW42e/Art-Design?node-id=18-214&t=GGuYUr51VlBUE1fP-1"
-    },
-        {
-      "id": 17,
-      "title": "24 Hour Gamification Challenge",
-      "description": "I recently completed a design task as part of an interview, which involved creating a gamified crypto earning landing page within a strict 24-hour timeframe. Despite the challenge of having no references or prior research to guide me, I focused on incorporating gamification elements to enhance user engagement and motivation. This project showcases my ability to innovate and adapt quickly, even under tight deadlines. I also prepared a comprehensive presentation to explain the design choices and the rationale behind each element, highlighting how they contribute to an engaging user experience. You can find the cover, presentation, and design all in the accompanying Figma file.",
-      "image": "/17.png",
-      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
-      "link": "https://www.figma.com/design/RklD7hyb3gOGkO5XxSQQJG/Task%2FGamification?node-id=53%3A115&t=YJ2BZltdT2IXKc4b-1"
-    },
-    {
-      "id": 16,
-      "title": "Coinovo Website",
-      "description": "In crafting the website design for the Coinovo app, I aimed to reflect the app's sleek and intuitive interface while providing visitors with a seamless user experience. The website features a modern layout with clean lines and vibrant accents, mirroring the app's aesthetic appeal. Through careful consideration of typography, color scheme, and imagery, I ensured that every aspect of the website aligns with Coinovo's brand identity.",
-      "image": "/16.png",
-      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
-      "link": "https://www.figma.com/file/Wq29u4ONBLGwniGlpKYSuG/Coinovo%2FLandingPAge?type=design&node-id=1%3A133&mode=design&t=OxoOnRFgPUCUIdHg-1"
-    },
-    {
+      {
       "id": 15,
       "title": "Coinovo Fintech Mobile App",
       "description": "Excited to share my latest project, Coinovo, a mobile app UI design crafted with meticulous attention to detail. Inspired by the glassmorphism trend, Coinovo merges the worlds of coin trading and finance into a seamless user experience. Utilizing a 4-point grid system, precise typography, and auto layout, I've created over 20 pixel-perfect pages with a 20/1 contrast ratio for optimal accessibility. From prototype to presentation, every aspect of Coinovo embodies a commitment to excellence in fintech design. Explore the design journey and prototype in my portfolio—I welcome your feedback and questions!",
@@ -40,13 +16,38 @@
       "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
       "link": "https://www.figma.com/design/VjqexbzoTpejAxw051LHBh/Banking?node-id=0-1&t=6Q4tAqWBG8S67Udr-1"
     },
-    {
+       {
       "id": 13,
-      "title": "Turtle Food & Two-day Design Challenge",
-      "description": "Completing this project was particularly challenging, as I designed and executed it within a two-day timeframe, demonstrating my ability to work efficiently and creatively under pressure. The Turtle Food app is a conceptual project created for my portfolio to showcase my UI/UX design skills. In this project, I aimed to address common user pain points with existing food delivery apps by designing an intuitive and visually appealing interface. A key feature of this design is the custom elements, including specially designed buttons with integrated logos that reinforce brand identity.",
+      "title": "Turtle Food",
+      "description": "The Turtle Food app is a conceptual project created for my portfolio to showcase my UI/UX design skills. In this project, I aimed to address common user pain points with existing food delivery apps by designing an intuitive and visually appealing interface. A key feature of this design is the custom elements, including specially designed buttons with integrated logos that reinforce brand identity.",
       "image": "/13.png",
       "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
       "link": "https://www.figma.com/design/8rc3X9SuGtYZ4JxrtremVX/TurtleFood?node-id=830-45388&t=5xDY1OrKBcAw0ZVE-1"
+    },
+    {
+      "id": 19,
+      "title": "Van Gogh Website",
+      "description": "A modern, multidisciplinary design studio landing page concept blending classic aesthetics with contemporary UI/UX principles. This Figma project showcases high-fidelity visual storytelling, powered by a strictly organized design system featuring advanced Auto Layouts and structured Component guides for seamless scalability.",
+      "image": "/19.png",
+      "tags": ["Figma", "Adobe", "UI Design"],
+      "link": "https://www.figma.com/design/zP0nC000Sl9KiXS2jeW42e/Art-Design?node-id=18-214&t=GGuYUr51VlBUE1fP-1"
+    },
+
+    {
+      "id": 16,
+      "title": "Coinovo Website",
+      "description": "In crafting the website design for the Coinovo app, I aimed to reflect the app's sleek and intuitive interface while providing visitors with a seamless user experience. The website features a modern layout with clean lines and vibrant accents, mirroring the app's aesthetic appeal. Through careful consideration of typography, color scheme, and imagery, I ensured that every aspect of the website aligns with Coinovo's brand identity.",
+      "image": "/16.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/file/Wq29u4ONBLGwniGlpKYSuG/Coinovo%2FLandingPAge?type=design&node-id=1%3A133&mode=design&t=OxoOnRFgPUCUIdHg-1"
+    },
+            {
+      "id": 17,
+      "title": "24 Hour Gamification Challenge",
+      "description": "I recently completed a design task as part of an interview, which involved creating a gamified crypto earning landing page within a strict 24-hour timeframe. Despite the challenge of having no references or prior research to guide me, I focused on incorporating gamification elements to enhance user engagement and motivation. This project showcases my ability to innovate and adapt quickly, even under tight deadlines. I also prepared a comprehensive presentation to explain the design choices and the rationale behind each element, highlighting how they contribute to an engaging user experience. You can find the cover, presentation, and design all in the accompanying Figma file.",
+      "image": "/17.png",
+      "tags": ["Figma", "Adobe Illustrator", "UX Research", "UI Design"],
+      "link": "https://www.figma.com/design/RklD7hyb3gOGkO5XxSQQJG/Task%2FGamification?node-id=53%3A115&t=YJ2BZltdT2IXKc4b-1"
     },
     {
       "id": 18,
